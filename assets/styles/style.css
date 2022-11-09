@@ -1,0 +1,13 @@
+body {
+	background-color: grey;
+}
+
+footer {
+	background-color: blue;
+}
+
+#footer-content {
+	text-align: right;
+	color: white;
+	font-weight: 600;
+}
